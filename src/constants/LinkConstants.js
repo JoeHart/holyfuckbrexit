@@ -1,43 +1,43 @@
 export default {
-  democrats: {
+  refugees: {
     donate: [
       {
-        text: 'DEMOCRATIC NATIONAL COMMITTEE',
-        link: 'https://my.democrats.org/page/contribute/donate-to-help-democrats-today'
+        text: 'CITIZENS UK',
+        link: 'https://citizensnew-citizens.nationbuilder.com/donate '
       },
       {
-        text: 'DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE',
-        link: 'https://secure.dscc.org/page/contribute'
+        text: 'HELP REFUGEES',
+        link: 'https://mydonate.bt.com/donation/start.html?charity=127188'
       },
       {
-        text: 'DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE',
-        link: 'https://secure.actblue.com/contribute/page/dcccactblue'
+        text: 'FREEDOM FROM TORTURE',
+        link: 'https://www.freedomfromtorture.org/get-involved-donate?tag=top-homepage'
       },
       {
-        text: 'SHE SHOULD RUN',
-        link: 'https://sheshouldrun.nationbuilder.com/donate'
-      },
-      {
-        text: "EMILY'S LIST",
-        link: 'https://secure.emilyslist.org/page/contribute/donate-to-emily'
+        text: 'REFUGEE ACTION',
+        link: 'http://www.refugee-action.org.uk/donate/ '
       }
     ],
     volunteer: [
       {
-        text: 'DEMOCRATIC NATIONAL COMMITTEE',
-        link: 'http://my.democrats.org/page/s/help-elect-democrats'
+        text: 'CITIZENS UK CAMPAIGN',
+        link: 'http://www.citizensuk.org/save_lives_by_helping_resettle_refugees'
       },
       {
-        text: 'DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE',
-        link: 'http://action.dccc.org/page/s/volunteer'
+        text: 'A WHOLE HOST OF STUFF BY REGION',
+        link: 'https://www.theguardian.com/world/2015/sep/11/how-do-i-offer-a-room-to-a-refugee '
       },
       {
-        text: 'DEMOCRATIC LEGISLATIVE CAMPAIGN COMMITTEE',
-        link: 'http://www.dlcc.org/volunteer'
+        text: 'GIVE YOUR TIME OR YOUR SPARE ROOM',
+        link: 'https://www.homesforsyrians.uk/'
       },
       {
-        text: 'WHOEVER IS RUNNING FOR SHIT IN YOUR STATE',
-        link: 'https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=who%20is%20running%20for%20office%20in%202018'
+        text: 'HELP REFUGEES\' CHOOSE LOVE CAMPAIGN',
+        link: 'http://www.helprefugees.org.uk/campaigns/chooselove/'
+      },
+      {
+        text: 'VOLUNTEER AT A REFUGEE CAMP',
+        link: 'http://www.helprefugees.org.uk/campaigns/chooselove/'
       }
     ]
   },
@@ -45,124 +45,69 @@ export default {
   lgbtq: {
     donate: [
       {
-        text: 'THE ACLU',
-        link: 'https://action.aclu.org/donate-aclu?ms=web_horiz_nav_hp'
+        text: 'GALOP',
+        link: 'http://www.galop.org.uk/donate/'
       },
       {
-        text: 'THE HUMAN RIGHTS CAMPAIGN',
-        link: 'https://give.hrc.org/ea-action/action?ea.client.id=1954&ea.campaign.id=51848'
+        text: 'SCHOOL\'S OUT',
+        link: 'http://www.schools-out.org.uk/?page_id=78'
       },
       {
-        text: 'LAMBDA LEGAL',
-        link: 'https://www.lambdalegal.org/donate'
+        text: 'ALBERT KENNEDY TRUST FOR HOMELESS LGBT PEOPLE',
+        link: 'http://www.akt.org.uk/2/spg357/albert-kennedy-trust-helping-young-lgbt-people/can-you-help/donating.aspx'
       },
       {
-        text: 'SOUTHERNERS ON NEW GROUND',
-        link: 'https://song.ourpowerbase.net/civicrm/contribute/transact?reset=1&id=2'
-      },
-      {
-        text: 'GLAAD',
-        link: 'https://glaad.nationbuilder.com/donate'
-      },
-      {
-        text: 'THE TREVOR PROJECT',
-        link: 'https://give.thetrevorproject.org/checkout/donation?eid=63307'
-      },
-      {
-        text: 'SILVIA RIVERA LAW PROJECT',
-        link: 'http://srlp.org/srlp/?page=CiviCRM&q=civicrm/contribute/transact&reset=1&id=4'
-      },
-      {
-        text: 'EVERYONE IS GAY',
-        link: 'http://everyoneisgay.com/donate/'
+        text: 'STONEWALL',
+        link: 'http://www.stonewall.org.uk/support-stonewall'
       }
     ],
     volunteer: [
       {
-        text: 'GLAAD',
-        link: 'http://www.glaad.org/getinvolved/volunteer'
+        text: 'STONEWALL',
+        link: 'http://www.stonewall.org.uk/get-involved/get-involved-young-stonewall/volunteering'
       },
       {
-        text: 'MAZZONI CENTER',
-        link: 'https://www.mazzonicenter.org/donate-now/volunteer-opportunities'
+        text: 'ALBERT KENNEDY TRUST FOR HOMELESS LGBT PEOPLE',
+        link: 'http://www.akt.org.uk/2/spg359/albert-kennedy-trust-helping-young-lgbt-people/can-you-help/carers.aspx'
       },
       {
-        text: 'THE SYLVIA RIVERA LAW PROJECT',
-        link: 'http://srlp.org/get-involved/volunteer/'
+        text: 'TERRENCE HIGGINS TRUST',
+        link: 'http://www.tht.org.uk/get-involved/Volunteer'
       },
       {
-        text: 'THE TREVOR PROJECT',
-        link: 'http://www.thetrevorproject.org/pages/volunteer'
-      },
-      {
-        text: 'SOUTHERNERS ON NEW GROUND',
-        link: 'https://song.ourpowerbase.net/civicrm/contribute/transact?reset=1&id=2'
+        text: 'SWITCHBOARD',
+        link: 'http://switchboard.lgbt/volunteer/'
       }
-
     ]
   },
 
   racism: {
     donate: [
       {
-        text: 'BLACK LIVES MATTER',
-        link: 'https://donate.idex.org/checkout/donation?eid=66399'
+        text: 'STOP HATE UK',
+        link: 'http://www.stophateuk.org/donate-to-stop-hate-uk/'
       },
       {
-        text: 'COUNCIL ON AMERICAN-ISLAMIC RELATIONS',
-        link: 'https://www.cair.com/donations/general-donation/campaign/#/donation'
+        text: 'TELL MAMA',
+        link: 'http://tellmamauk.org/'
       },
       {
-        text: 'THE NAACP',
-        link: 'https://donate.naacp.org/page/contribute/make-a-contribution'
-      },
-      {
-        text: 'NATIONAL IMMIGRATION LAW CENTER',
-        link: 'https://nilc.z2systems.com/np/clients/nilc/donation.jsp?campaign=15&'
-      },
-      {
-        text: 'THE SOUTHERN POVERTY LAW CENTER',
-        link: 'https://donate.splcenter.org/sslpage.aspx?pid=463'
-      },
-      {
-        text: 'THE ANTI DEFAMATION LEAGUE',
-        link: 'https://secure2.convio.net/adl/site/SPageNavigator/donation-api/donation_form_single_main_1.html'
-      },
-      {
-        text: 'THE ACLU',
-        link: 'https://action.aclu.org/donate-aclu?ms=web_horiz_nav_hp'
-      },
-      {
-        text: 'SHOWING UP FOR RACIAL JUSTICE',
-        link: 'https://showingupforracialjustice.nationbuilder.com/donate'
-      },
-      {
-        text: 'NATIVE AMERICAN RIGHTS FUND',
-        link: 'https://secure2.convio.net/narf/site/Donation2?idb=1549719056&DONATION_LEVEL_ID_SELECTED=1&df_id=1641&1641.donation=form1&mfc_pref=T&idb=0'
+        text: 'STAND UP TO RACISM',
+        link: 'http://www.standuptoracism.org.uk/join-donate/'
       }
-
     ],
-
     volunteer: [
       {
-        text: 'CAMPAIGN ZERO',
-        link: 'http://www.staywoke.org/'
+        text: 'BLACK LIVES MATTER',
+        link: 'https://www.facebook.com/BLMUK/'
       },
       {
-        text: 'THE ANTI DEFAMATION LEAGUE',
-        link: 'http://www.adl.org/regions/'
+        text: 'SHARE THIS VIDEO',
+        link: 'https://www.facebook.com/videorev/videos/1842194622678524/?__mref=message_bubble'
       },
       {
-        text: 'THE NAACP',
-        link: 'http://www.naacp.org/find-local-unit/'
-      },
-      {
-        text: 'COUNCIL ON AMERICAN-ISLAMIC RELATIONS',
-        link: 'https://www.cair.com/cair-chapters.html'
-      },
-      {
-        text: 'SHOWING UP FOR RACIAL JUSTICE',
-        link: 'http://www.showingupforracialjustice.org/organize'
+        text: 'HOPE NOT HATE',
+        link: 'http://www.hopenothate.org.uk/'
       }
     ]
   },
@@ -170,96 +115,131 @@ export default {
   women: {
     donate: [
       {
-        text: 'NOW',
-        link: 'https://salsa.wiredforchange.com/o/5996/p/salsa/donation/common/public/?donate_page_KEY=11005'
+        text: 'WOMEN FOR REFUGEE WOMEN',
+        link: 'https://www.charitychoice.co.uk/women-for-refugee-women/donate?donate=anonymous'
       },
       {
-        text: 'NARAL',
-        link: 'https://actnow.prochoiceamerica.org/donate/supportnaral/?source=leftbar#.WCNXOOErKgQ'
+        text: 'SOUTHALL BLACK SISTERS',
+        link: 'https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=022hWRqlaEZiybbGZU0FjwrwPdAgCvYb81FIFBoj7eOk_oK_Nh8ZqrXq3ve&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542'
       },
       {
-        text: 'PLANNED PARENTHOOD',
-        link: 'https://secure.ppaction.org/site/Donation2?df_id=12913&12913.donation=form1&_ga=1.38484843.997121566.1477408976'
+        text: 'ABORTION RIGHTS UK',
+        link: 'http://www.abortionrights.org.uk/donate/'
       },
       {
-        text: 'RAINN',
-        link: 'https://donate.rainn.org/'
+        text: 'YOUNG WOMEN\'S TRUST',
+        link: 'http://www.youngwomenstrust.org/get_involved/donate'
       },
       {
-        text: 'NATIONAL COALITION AGAINST DOMESTIC VIOLENCE',
-        link: 'http://ncadv.org/give-back/donate'
-      },
-      {
-        text: 'REPRODUCTIVE HEALTH ACCESS PROJECT',
-        link: 'https://donatenow.networkforgood.org/1438163'
-      },
-      {
-        text: 'CENTER FOR REPRODUCTIVE RIGHTS',
-        link: 'https://secure3.convio.net/cfrr/site/Donation2;jsessionid=97A4C7A9488B5DDF3450546DE1123DB2.app347a?1380.donation=form1&df_id=1380&web&_ga=1.145398384.513337705.1476995534'
+        text: 'REFUGE',
+        link: 'https://www.refuge.org.uk/single-online-donation/'
       }
     ],
     volunteer: [
       {
-        text: 'NOW',
-        link: 'http://nownyc.org/get-involved/'
+        text: 'WOMEN FOR REGUFEE WOMEN',
+        link: 'http://www.refugeewomen.co.uk/campaign/'
       },
       {
-        text: 'NARAL',
-        link: 'http://actnow.prochoiceamerica.org/signup/volunteer/?source=website#.WCNXKuErKgQ'
+        text: 'SISTERS UNCUT',
+        link: 'http://www.sistersuncut.org/meetings/'
       },
 
       {
-        text: 'PLANNED PARENTHOOD',
-        link: 'https://plannedparenthoodrccorpvolunteer.peoplefluent.com/index.html'
+        text: 'GIRLGUIDING',
+        link: 'https://www.girlguiding.org.uk/get-involved/become-a-volunteer/ways-of-volunteering/'
       },
       {
-        text: 'RAINN',
-        link: 'https://www.rainn.org/get-involved'
+        text: 'THE GIRLS\' NETWORK',
+        link: 'http://www.thegirlsnetwork.org.uk/old/mentoring1/'
       }
     ]
   },
 
-  earth: {
+  environment: {
     donate: [
       {
-        text: 'EARTHJUSTICE',
-        link: 'https://secure.earthjustice.org/site/Donation2?df_id=10960&10960.donation=form1&_ga=1.146521844.1974926048.1478708236'
+        text: 'FRIENDS OF THE EARTH',
+        link: 'https://www.foe.co.uk/ways_to_donate'
       },
       {
-        text: 'THE SIERRA CLUB',
-        link: 'https://vault.sierraclub.org/ways-to-give/'
+        text: 'GREENPEACE',
+        link: 'https://secure.greenpeace.org.uk/page/contribute/greenpeace-generic/donate/'
       },
       {
-        text: 'CLIMATE SCIENCE LEGAL DEFENSE FUND',
-        link: 'http://climatesciencedefensefund.org/donate/monthly/'
+        text: 'THE WOODLAND TRUST',
+        link: 'https://www.woodlandtrust.org.uk/donate/'
       },
       {
-        text: 'LEAGUE OF CONSERVATION VOTERS',
-        link: 'https://secure3.convio.net/lcv/site/Donation2?df_id=1741&1741.donation=form1'
-      },
-      {
-        text: 'NATURAL RESOURCES DEFENSE COUNCIL',
-        link: 'https://secure.nrdconline.org/site/Donation2?df_id=15743&15743.donation=form1&_ga=1.264541580.203263383.1479235887'
-      },
-      {
-        text: 'COOL EARTH',
-        link: 'https://www.coolearth.org/get-involved/donate/'
+        text: 'CANAL AND RIVER TRUST',
+        link: 'https://canalrivertrust.org.uk/donate/waterside-watch'
       }
     ],
     volunteer: [
       {
-        text: 'EARTHJUSTICE',
-        link: 'http://earthjustice.org/action'
+        text: 'CANAL AND RIVER TRUST - VOLUNTEER',
+        link: 'https://canalrivertrust.org.uk/volunteer/opportunities'
       },
       {
-        text: 'NEXTGEN CLIMATE ACTION',
-        link: 'https://nextgenclimate.org/volunteer/'
+        text: 'FOODCYCLE',
+        link: 'http://foodcycle.org.uk/get-stuck-in/volunteer/'
       },
       {
-        text: 'SAFECAST',
-        link: 'http://blog.safecast.org/volunteer/'
+        text: 'JOIN A FRIENDS OF THE EARTH LOCAL GROUP',
+        link: 'https://www.foe.co.uk/page/find-local-group'
+      },
+      {
+        text: 'JOIN A LOCAL GREENPEACE CAMPAIGN',
+        link: 'http://www.greenpeace.org.uk/groups'
+      },
+      {
+        text: 'GLOBAL JUSTICE NOW',
+        link: 'http://www.globaljustice.org.uk/contact-local-group'
+      }
+    ]
+  },
+  austerity: {
+    donate: [
+      {
+        text: 'THE BISCUIT FUND FOR PEOPLE HIT HARD BY AUSTERITY',
+        link: 'http://www.biscuitfund.org/index.php?id=donate'
+      },
+      {
+        text: 'TRUSSELL TRUST',
+        link: 'https://www.trusselltrust.org/make-a-donation/'
+      },
+      {
+        text: 'JOIN A POLITICAL PARTY',
+        link: 'https://voteforpolicies.org.uk/'
+      },
+      {
+        text: 'JOIN A UNION',
+        link: 'https://www.tuc.org.uk/join-union'
+      }
+    ],
+    volunteer: [
+      {
+        text: 'TRUSSELL TRUST',
+        link: 'https://www.trusselltrust.org/get-involved/volunteer/'
+      },
+      {
+        text: 'CRISIS AT CHRISTMAS',
+        link: 'http://www.crisis.org.uk/pages/volunteer-christmas.html'
+      },
+      {
+        text: 'VOLUNTEER AT SAMARITANS',
+        link: 'http://www.samaritans.org/volunteer-us'
+      },
+      {
+        text: 'JOIN A POLITICAL PARTY',
+        link: 'https://voteforpolicies.org.uk/'
+      },
+      {
+        text: 'STOP FUNDING HATE',
+        link: 'https://www.facebook.com/stopfundinghate/app/100265896690345/'
       }
     ]
   }
+
 
 };

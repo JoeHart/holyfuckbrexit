@@ -1,6 +1,5 @@
 export const IDEAS_LIST = [
   {
-    pretext: 'Ok then...',
     text: 'LET’S GET THIS PARTY STARTED',
 
     buttons: [
@@ -16,8 +15,8 @@ export const IDEAS_LIST = [
   },
 
   {
-    pretext: 'We feel you.',
-    text: 'And it’s gonna be like this for ages, so you’d best pace yourselves.',
+    text: 'WE FEEL YOU',
+    posttext: 'AND IT\'S GONNA BE LIKE THIS FOR AGES, SO YOU\'D BEST PACE YOURSELVES.',
     analyticsTag: 'selfcare',
 
     buttons: [
@@ -34,7 +33,7 @@ export const IDEAS_LIST = [
         link: 'https://www.youtube.com/watch?v=9yv_rl3MYKA&feature=youtu.be'
       },
       {
-        text: 'TAKE CATE OF YOUR-FUCKING-SELF',
+        text: 'TAKE CARE OF YOUR-FUCKING-SELF',
         link: 'http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to '
       },
       {
@@ -42,8 +41,8 @@ export const IDEAS_LIST = [
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
-        text: 'AND SO DO ALL THESE PEOPLE WITH FUCKING SAFETY PINS',
-        link: 'https://www.good.is/articles/safety-pin-america-trump-brexit'
+        text: 'Need one more to make this even',
+        link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
         text: 'OH BUT ONE MORE THING...',
@@ -54,29 +53,33 @@ export const IDEAS_LIST = [
   },
 
   {
-    pretext: "OKAY. LET'S FUCK SHIT UP.",
-    text: "WHAT'S ON YOUR MIND?",
+    pretext: 'GLAD TO HAVE YOU ON BOARD',
+    text: "WHAT'S YOUR BEEF?",
 
     buttons: [
       {
-        text: 'ELECTING SOME FUCKING DEMOCRATS',
-        topic: 'democrats'
+        text: 'THE MOTHERFUCKING REFUGEE CRISIS',
+        topic: 'refugees'
       },
       {
-        text: 'FUCKING LGBTQ SHIT',
-        topic: 'lgbtq'
-      },
-      {
-        text: 'RACIST MOTHERFUCKERS',
-        topic: 'racism'
-      },
-      {
-        text: 'NOT GETTING GRABBED BY THE FUCKING PUSSY',
+        text: 'EQUAL RIGHTS FOR 51% OF THE FUCKING WORLD',
         topic: 'women'
       },
       {
-        text: 'THE FUCKING EARTH IS GOING TO LITERALLY BE ON FUCKING FIRE',
-        topic: 'earth'
+        text: 'TORY AUSTERITY FUCKING NONSENSE',
+        topic: 'austerity'
+      },
+      {
+        text: 'FUCKING RELENTLESS LGBTQ+PHOBIA',
+        topic: 'lgbtq'
+      },
+      {
+        text: 'RACIST AND ISLAMAPHOBIC FUCKHEADS',
+        topic: 'racism'
+      },
+      {
+        text: 'OUR FUCKING PLANET BECAUSE I DON\'T WANT MY KIDS TO FRY YEAH CHEERS',
+        topic: 'environment'
       }
     ]
   },
