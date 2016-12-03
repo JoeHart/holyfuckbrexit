@@ -1,45 +1,45 @@
 export const IDEAS_LIST = [
   {
-    pretext: 'FIRST THINGS FIRST...',
-    text: 'ARE YOU OKAY?',
+    pretext: 'Ok then...',
+    text: 'LET’S GET THIS PARTY STARTED',
 
     buttons: [
       {
-        text: 'I NEED A FUCKING MINUTE',
+        text: 'DON’T RUSH ME, DAMMIT',
         stepsForward: 1
       },
       {
-        text: "I'M READY TO FUCK SHIT UP!",
+        text: 'I GOTTA CHANNEL THIS RAGE',
         stepsForward: 2
       }
     ]
   },
 
   {
-    pretext: "THAT'S FUCKING FAIR.",
-    text: 'CHECK THIS SHIT OUT (AND COME BACK LATER IF YOU WANT)',
+    pretext: 'We feel you.',
+    text: 'And it’s gonna be like this for ages, so you’d best pace yourselves.',
     analyticsTag: 'selfcare',
 
     buttons: [
       {
-        text: 'LOOK AT DOGS AND BABIES AND SHIT',
-        link: 'https://www.youtube.com/watch?v=p336IIjZCl8'
+        text: 'LOOK AT THESE FUCKING CATS AND CUCUMBERS',
+        link: 'https://www.youtube.com/watch?v=cNycdfFEgBc'
       },
       {
-        text: 'TAKE FUCKING CARE OF YOURSELF',
-        link: 'https://www.wired.com/2016/11/critical-role-self-care-handling-post-election-stress/'
+        text: 'THANK FCK FOR BRITISH PEOPLE ON TWITTER',
+        link: 'https://www.buzzfeed.com/tomphillips/does-backflip?utm_term=.sajoEoVWk#.wpO0j01bV '
       },
       {
-        text: 'PICK UP A FUCKING PENCIL AND WRITE THIS SHIT DOWN',
-        link: 'http://nymag.com/scienceofus/2016/09/journaling-can-help-you-out-of-a-bad-mood.html'
+        text: 'AND THANK FUCK FOR FLO AND JOAN',
+        link: 'https://www.youtube.com/watch?v=9yv_rl3MYKA&feature=youtu.be'
       },
       {
-        text: 'MAKE SOME BAD FUCKING ART OR SOMETHING',
-        link: 'https://makeamericacolorfulagain.com/trump_ebooks.pdf'
+        text: 'TAKE CATE OF YOUR-FUCKING-SELF',
+        link: 'http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to '
       },
       {
-        text: 'REMEMBER THAT BUZZFEED HAS YOUR BACK I GUESS',
-        link: 'https://www.buzzfeed.com/kelseyimpicciche/we-have-a-message-for-those-who-feel-alone?utm_term=.haK81DMVoa#.mcWMPKGd8V'
+        text: 'WRITE DOWN YOUR POST-BREXIT LEAST SHIT SCENARIO FEELS',
+        link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
         text: 'AND SO DO ALL THESE PEOPLE WITH FUCKING SAFETY PINS',
