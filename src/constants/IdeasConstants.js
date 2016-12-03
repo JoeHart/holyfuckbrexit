@@ -25,7 +25,7 @@ export const IDEAS_LIST = [
         link: 'https://www.youtube.com/watch?v=cNycdfFEgBc'
       },
       {
-        text: 'THANK FCK FOR BRITISH PEOPLE ON TWITTER',
+        text: 'THANK FUCK FOR BRITISH PEOPLE ON TWITTER',
         link: 'https://www.buzzfeed.com/tomphillips/does-backflip?utm_term=.sajoEoVWk#.wpO0j01bV '
       },
       {
