@@ -110,11 +110,11 @@ export const IDEAS_LIST = [
     buttons: [
       {
         text: 'FACEBOOK',
-        link: 'https://www.facebook.com/sharer/sharer.php?u=http%3A//www.holyfucktheelection.com/'
+        link: 'https://www.facebook.com/sharer/sharer.php?u=http%3A//www.holyfuckbrexit.co.uk'
       },
       {
         text: 'TWITTER',
-        link: 'https://twitter.com/intent/tweet?text=HOLY%20FUCK%20NOW%20WHAT%20&url=http%3A//www.holyfucktheelection.com/'
+        link: 'https://twitter.com/intent/tweet?text=HOLY%20FUCK%20NOW%20WHAT%20&url=http%3A//www.holyfuckbrexit.co.uk/'
       }
     ]
 
