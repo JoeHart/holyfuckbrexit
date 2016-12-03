@@ -1,6 +1,5 @@
 export const IDEAS_LIST = [
   {
-    pretext: 'Ok then...',
     text: 'LET’S GET THIS PARTY STARTED',
 
     buttons: [
@@ -16,8 +15,8 @@ export const IDEAS_LIST = [
   },
 
   {
-    pretext: 'We feel you.',
-    text: 'And it’s gonna be like this for ages, so you’d best pace yourselves.',
+    text: 'WE FEEL YOU',
+    posttext: 'And it’s gonna be like this for ages, so you’d best pace yourselves.',
     analyticsTag: 'selfcare',
 
     buttons: [
@@ -34,7 +33,7 @@ export const IDEAS_LIST = [
         link: 'https://www.youtube.com/watch?v=9yv_rl3MYKA&feature=youtu.be'
       },
       {
-        text: 'TAKE CATE OF YOUR-FUCKING-SELF',
+        text: 'TAKE CARE OF YOUR-FUCKING-SELF',
         link: 'http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to '
       },
       {
@@ -42,8 +41,8 @@ export const IDEAS_LIST = [
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
-        text: 'AND SO DO ALL THESE PEOPLE WITH FUCKING SAFETY PINS',
-        link: 'https://www.good.is/articles/safety-pin-america-trump-brexit'
+        text: 'Need one more to make this even',
+        link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
         text: 'OH BUT ONE MORE THING...',

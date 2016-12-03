@@ -65,7 +65,8 @@ export default class Idea extends Component {
     let { text } = this.props.idea;
     const { choices, links } = this.props;
 
-    const pretext = this.props.idea.pretext || 'YOU SHOULD...';
+    const pretext = this.props.idea.pretext;
+    const posttext = this.props.idea.posttext;
 
     if (!text && links.length > 0) {
       text = (choices.action === 'volunteer')
@@ -73,11 +74,12 @@ export default class Idea extends Component {
         : 'DONATE TO ONE OF THESE FUCKING ORGANIZATIONS';
     }
 
+
     return (
       <div className="container">
         <p className="idea-intro">{ pretext }</p>
         <div className="idea-text" tabIndex="-1">{ text }</div>
-
+        {posttext && <p className="idea-post">{ posttext }</p>}
         { this.renderButtons(this.props.idea) }
 
       </div>
