@@ -59,6 +59,10 @@ export default {
       {
         text: 'STONEWALL',
         link: 'http://www.stonewall.org.uk/support-stonewall'
+      },
+      {
+        text: 'GENDERED INTELLIGENCE',
+        link: 'http://genderedintelligence.co.uk/support-us/donate'
       }
     ],
     volunteer: [
@@ -120,7 +124,7 @@ export default {
       },
       {
         text: 'SOUTHALL BLACK SISTERS',
-        link: 'https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=022hWRqlaEZiybbGZU0FjwrwPdAgCvYb81FIFBoj7eOk_oK_Nh8ZqrXq3ve&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542'
+        link: 'http://www.southallblacksisters.org.uk/'
       },
       {
         text: 'ABORTION RIGHTS UK',
@@ -137,7 +141,7 @@ export default {
     ],
     volunteer: [
       {
-        text: 'WOMEN FOR REGUFEE WOMEN',
+        text: 'WOMEN FOR REFUGEE WOMEN',
         link: 'http://www.refugeewomen.co.uk/campaign/'
       },
       {
@@ -177,7 +181,7 @@ export default {
     ],
     volunteer: [
       {
-        text: 'CANAL AND RIVER TRUST - VOLUNTEER',
+        text: 'CANAL AND RIVER TRUST',
         link: 'https://canalrivertrust.org.uk/volunteer/opportunities'
       },
       {
@@ -227,7 +231,7 @@ export default {
         link: 'http://www.crisis.org.uk/pages/volunteer-christmas.html'
       },
       {
-        text: 'VOLUNTEER AT SAMARITANS',
+        text: 'SAMARITANS',
         link: 'http://www.samaritans.org/volunteer-us'
       },
       {
@@ -236,7 +240,7 @@ export default {
       },
       {
         text: 'STOP FUNDING HATE',
-        link: 'https://www.facebook.com/stopfundinghate/app/100265896690345/'
+        link: 'https://www.facebook.com/stopfundinghate/'
       }
     ]
   }

@@ -41,7 +41,7 @@ export const IDEAS_LIST = [
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
-        text: 'Need one more to make this even',
+        text: 'Remember Lesie Fucking Knope Has Your Back',
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
@@ -62,7 +62,7 @@ export const IDEAS_LIST = [
         topic: 'refugees'
       },
       {
-        text: 'EQUAL RIGHTS FOR 51% OF THE FUCKING WORLD',
+        text: 'EQUALITY FOR OVER HALF THE FUCKING POPULATION',
         topic: 'women'
       },
       {
@@ -74,7 +74,7 @@ export const IDEAS_LIST = [
         topic: 'lgbtq'
       },
       {
-        text: 'RACIST AND ISLAMAPHOBIC FUCKHEADS',
+        text: 'RACIST AND ISLAMOPHOBIC FUCKHEADS',
         topic: 'racism'
       },
       {

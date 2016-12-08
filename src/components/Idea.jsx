@@ -70,8 +70,8 @@ export default class Idea extends Component {
 
     if (!text && links.length > 0) {
       text = (choices.action === 'volunteer')
-        ? 'VOLUNTEER WITH ONE OF THESE FUCKING ORGANIZATIONS'
-        : 'DONATE TO ONE OF THESE FUCKING ORGANIZATIONS';
+        ? 'VOLUNTEER WITH ONE OF THESE FUCKING ORGANISATIONS'
+        : 'DONATE TO ONE OF THESE FUCKING ORGANISATIONS';
     }
 
 
