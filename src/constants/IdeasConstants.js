@@ -42,7 +42,7 @@ export const IDEAS_LIST = [
       },
       {
         text: 'REMEMBER LESLIE FUCKING KNOPE HAS YOUR BACK',
-        link: 'http://diybrexit.38degrees.org.uk/ '
+        link: 'http://www.vox.com/first-person/2016/11/10/13580582/leslie-knope-donald-trump'
       },
       {
         text: 'OH BUT ONE MORE THING...',
