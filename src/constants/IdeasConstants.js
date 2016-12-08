@@ -41,7 +41,7 @@ export const IDEAS_LIST = [
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
-        text: 'Remember Lesie Fucking Knope Has Your Back',
+        text: 'REMEMBER LESLIE FUCKING KNOPE HAS YOUR BACK',
         link: 'http://diybrexit.38degrees.org.uk/ '
       },
       {
