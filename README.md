@@ -1,8 +1,6 @@
 # thanks!
 
-many thanks to [@tsaiDavid](https://github.com/tsaiDavid/) for the Simple Redux Boilerplate project.
-
-even more thanks to Hillary Clinton for being a badass bitch.
+many thanks to [@csb324](https://github.com/csb324) for making the project we copied this from.
 
 # how to run this shit
 
