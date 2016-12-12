@@ -16,7 +16,11 @@ export default {
       {
         text: 'REFUGEE ACTION',
         link: 'http://www.refugee-action.org.uk/donate/ '
-      }
+      },
+      {
+        text: 'THE CHILDREN\'S SOCIETY',
+        link: 'http://www.childrenssociety.org.uk/donate/'
+      },
     ],
     volunteer: [
       {
@@ -38,7 +42,11 @@ export default {
       {
         text: 'VOLUNTEER AT A REFUGEE CAMP',
         link: 'http://www.helprefugees.org.uk/campaigns/chooselove/'
-      }
+      },
+      {
+        text: 'THE CHILDREN\'S SOCIETY, HELP CHILD REFUGEES',
+        link: 'http://www.childrenssociety.org.uk/what-you-can-do/volunteer'
+      }      
     ]
   },
 
