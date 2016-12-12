@@ -20,7 +20,7 @@ export default {
       {
         text: 'THE CHILDREN\'S SOCIETY',
         link: 'http://www.childrenssociety.org.uk/donate/'
-      },
+      }
     ],
     volunteer: [
       {
